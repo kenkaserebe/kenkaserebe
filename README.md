@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1.20+-blue?logo=kubernetes)
+![Python](https://img.shields.io/badge/Python-3.9+-green?logo=python)
+![Flask](https://img.shields.io/badge/Flask-3.1.3-lightgrey?logo=flask)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-Compatible-orange?logo=argocd)
+---
