@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **kenkaserebe/kenkaserebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1.20+-blue?logo=kubernetes)
 ![Python](https://img.shields.io/badge/Python-3.9+-green?logo=python)
 ![Flask](https://img.shields.io/badge/Flask-3.1.3-lightgrey?logo=flask)
