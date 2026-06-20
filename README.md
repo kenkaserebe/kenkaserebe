@@ -10,7 +10,7 @@
 
 - Build and automate cloud infrastructure (AWS & Azure)
 - Design CI/CD pipelines that actually ship reliably
-- Work with containerized workloads (Docker, Kubernetes)
+- Work with containerized workloads (Docker, Kubernetes, Rancher)
 - Focus on practical, production-ready systems — not just demos
 
 ---
@@ -56,15 +56,21 @@
 
 **Cloud & DevOps**
 - AWS (EC2, S3, IAM, CodeBuild, CodeDeploy, CodeArtifact)
+- Azure ()
 - Docker & Kubernetes
-- Linux (Ubuntu / CentOS)
+- Linux (Ubuntu / CentOS / Redhat)
 
 **Infrastructure as Code**
+- Ansible
 - CloudFormation
+- Terraform
 
 **CI/CD**
+- ArgoCD
 - AWS CodePipeline ecosystem
-- GitHub Actions (basic)
+- GitHub Actions
+- Jenkins
+
 
 ---
 
