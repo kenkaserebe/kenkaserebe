@@ -8,11 +8,65 @@
 
 ## 🚀 What I Do
 
-- Build and automate cloud infrastructure (AWS-first mindset)
+- Build and automate cloud infrastructure (AWS & Azure)
 - Design CI/CD pipelines that actually ship reliably
 - Work with containerized workloads (Docker, Kubernetes)
 - Focus on practical, production-ready systems — not just demos
 
+---
+## Languages and Tools
+Linux
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+Red Hat
+![Red Hat](https://img.shields.io/badge/RHEL-white?logo=redhat&logoColor=EE0000)
+CentOS
+![CentOS](https://img.shields.io/badge/centos-white?logo=centos&logoColor=262577)
+Windows Server
+![Windows Server](https://img.shields.io/badge/Windows%20Server-white?logo=windows&logoColor=0078D6)
+GitHub
+![GitHub](https://img.shields.io/badge/github-black?logo=github&logoColor=white)
+HashiCorp Vault
+![HashiCorp Vault](https://img.shields.io/badge/vault-white?logo=vault&logoColor=black)
+Kubernetes Secrets
+![Kubernetes Secrets](https://img.shields.io/badge/k8s%20secrets-white?logo=kubernetes&logoColor=blue)
+Python
+![Python](https://img.shields.io/badge/python-white?logo=python&logoColor=black)
+PostgreSQL
+![PostgreSQL](https://img.shields.io/badge/postgres-white?logo=postgresql&logoColor=blue)
+MongoDB
+![MongoDB](https://img.shields.io/badge/MongoDB-white?logo=mongodb&logoColor=green)
+MySQL
+![MySQL](https://img.shields.io/badge/mysql-white?logo=mysql&logoColor=blue)
+Nginx
+![Nginx](https://img.shields.io/badge/nginx-white?logo=nginx&logoColor=2523009639)
+Traefik
+![Traefik](https://img.shields.io/badge/traefik-white?logo=traefikmesh&logoColor=24A1C1)
+Terraform
+![Terraform](https://img.shields.io/badge/terraform-white?logo=terraform&logoColor=purple)
+Ansible
+![Ansible](https://img.shields.io/badge/ansible-white?logo=ansible&logoColor=black)
+Prometheus
+![Prometheus](https://img.shields.io/badge/Prometheus-white?logo=prometheus&logoColor=burgundy)
+Grafana
+![Grafana](https://img.shields.io/badge/grafana-white?logo=grafana&logoColor=orange)
+Loki
+![Loki](https://img.shields.io/badge/loki-white?logo=grafana&logoColor=black)
+AWS
+![AWS](https://img.shields.io/badge/AWS-white?logo=amazon-aws&logoColor=black)
+Azure
+![Azure](https://img.shields.io/badge/azure-white?logo=microsoftazure&logoColor=blue)
+Jenkins
+![Jenkins](https://img.shields.io/badge/jenkins-brown?logo=jenkins&logoColor=white)
+GitHub Actions
+![GitHub Actions](https://img.shields.io/badge/Github%20Actions-white?logo=githubactions&logoColor=blue)
+ArgoCD
+![ArgoCD](https://img.shields.io/badge/argocd-white?logo=argo&logoColor=lightbrown)
+Rancher
+![Rancher](https://img.shields.io/badge/rancher-white?logo=rancher&logoColor=blue)
+Docker
+![Docker](https://img.shields.io/badge/docker-blue?logo=docker&logoColor=white)
+Kubernetes
+![Kubernetes](https://img.shields.io/badge/kubernetes-blue?logo=kubernetes&logoColor=white)
 ---
 
 ## 🧠 Current Focus
