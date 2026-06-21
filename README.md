@@ -17,7 +17,7 @@
 ## Languages and Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Red Hat](https://img.shields.io/badge/RHEL-white?logo=redhat&logoColor=EE0000)
-![CentOS](https://img.shields.io/badge/centos-white?logo=centos&logoColor=262577)logo=windows&logoColor=0078D6)
+![CentOS](https://img.shields.io/badge/centos-white?logo=centos&logoColor=262577)
 ![GitHub](https://img.shields.io/badge/github-black?logo=github&logoColor=white)
 ![HashiCorp Vault](https://img.shields.io/badge/vault-white?logo=vault&logoColor=black)
 ![Kubernetes Secrets](https://img.shields.io/badge/k8s%20secrets-white?logo=kubernetes&logoColor=blue)
