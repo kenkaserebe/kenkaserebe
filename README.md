@@ -75,13 +75,14 @@
 
 ## 📦 Featured Projects
 
-### 🔧 DevOps CI/CD Pipeline
-End-to-end pipeline deploying a Java web app to EC2 using AWS services.
+### Kubernetes Logging & Monitoring Stack
+Observation and monitoring stack using Prometheus, Grafana and Loki to detect system issues.
 
-- Automated build with CodeBuild
-- Deployment via CodeDeploy
-- Artifact storage in S3
-- Infrastructure defined in CloudFormation
+- Set up a Kubernetes cluster
+- Used Helm to deploy the Prometheus stack (kube-prometheus-stack) for collecting metrics from the cluster and applications
+- Configured Grafana dashboards to visualize cluster health, pod resource usage, and application-specific metrics
+- Deployed a logging stack (Loki and Promtail) to aggregate logs from all containers
+- Wrote a small Python application that emits structured logs (JSON) and exposes custom metrics (using the Prometheus Python client). Deployed this app to the cluster
 
 👉 [View Project](https://github.com/kenkaserebe/REPO_NAME)
 
