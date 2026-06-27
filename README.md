@@ -84,7 +84,7 @@ Observation and monitoring stack using Prometheus, Grafana and Loki to detect sy
 - Deployed a logging stack (Loki and Promtail) to aggregate logs from all containers
 - Wrote a small Python application that emits structured logs (JSON) and exposes custom metrics (using the Prometheus Python client). Deployed this app to the cluster
 
-👉 [View Project](https://github.com/kenkaserebe/REPO_NAME)
+👉 [View Project]([https://github.com/kenkaserebe/REPO_NAME](https://github.com/kenkaserebe/observability-n-monitoring.git))
 
 ---
 
