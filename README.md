@@ -95,15 +95,6 @@ This project showcases a complete end-to-end GitOps workflow across multiple clo
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenkaserebe&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenkaserebe&layout=compact&theme=dark" />
-</p>
-
----
-
 ## 🎯 What I'm Working Toward
 
 - Production-grade Kubernetes deployments
@@ -115,7 +106,7 @@ This project showcases a complete end-to-end GitOps workflow across multiple clo
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/kenkaserebe
-- LinkedIn: (add this if you have it)
+- LinkedIn: https://www.linkedin.com/in/kennethkaserebe/
 
 ---
 
