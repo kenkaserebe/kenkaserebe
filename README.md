@@ -91,7 +91,7 @@ Observation and monitoring stack using Prometheus, Grafana and Loki to detect sy
 ### Multi-Cloud GitOps Platform
 This project showcases a complete end-to-end GitOps workflow across multiple cloud providers. It provisions Kubernetes clusters (EKS on AWS, AKS on Azure), installs ArgoCD for continuous delivery, and deploys a sample application using GitOps principles. The entire infrastructure is defined as code, with CI/CD pipelines automating image builds and deployment updates.
 
-👉 [View Project]([https://github.com/kenkaserebe/REPO_NAME](https://github.com/kenkaserebe/The_Multi-Cloud_GitOps_Platform.git))
+👉 [View Project](https://github.com/kenkaserebe/The_Multi-Cloud_GitOps_Platform.git)
 
 ---
 
