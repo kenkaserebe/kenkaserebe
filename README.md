@@ -88,25 +88,10 @@ Observation and monitoring stack using Prometheus, Grafana and Loki to detect sy
 
 ---
 
-### ☸️ Kubernetes Web App
-Simple web app + database deployed on Kubernetes for learning and experimentation.
+### Multi-Cloud GitOps Platform
+This project showcases a complete end-to-end GitOps workflow across multiple cloud providers. It provisions Kubernetes clusters (EKS on AWS, AKS on Azure), installs ArgoCD for continuous delivery, and deploys a sample application using GitOps principles. The entire infrastructure is defined as code, with CI/CD pipelines automating image builds and deployment updates.
 
-- Containerized services
-- Service + deployment configs
-- Basic scaling and networking
-
-👉 [View Project](https://github.com/kenkaserebe/REPO_NAME)
-
----
-
-### 🖥️ PXE Boot Server (Linux)
-Network-based OS deployment system.
-
-- PXE boot configuration
-- DHCP + TFTP setup
-- Automated OS provisioning
-
-👉 [View Project](https://github.com/kenkaserebe/REPO_NAME)
+👉 [View Project]([https://github.com/kenkaserebe/REPO_NAME](https://github.com/kenkaserebe/The_Multi-Cloud_GitOps_Platform.git))
 
 ---
 
